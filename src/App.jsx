@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-    <button className='h-[40px] w-[40px] bg-amber-400'>clickme</button>
-     
+    <button className='h-[40px] w-[40px] '>clickme</button>
+     <p>araandaaa</p>
     </>
   )
 }
