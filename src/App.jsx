@@ -9,7 +9,6 @@ function App() {
   return (
     <>
     <button className='h-[40px] w-[40px] '>clickme</button>
-     <h1>heloooooo</h1>
      <p>araandaaa</p>
     </>
   )
